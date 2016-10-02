@@ -1,0 +1,39 @@
+C:\Users\Gaby\Documents\Visual Studio 2010\Projects\FLOVAL\FLOVAL\obj\x86\Debug\FLOVAL.csprojResolveAssemblyReference.cache
+C:\Users\Gaby\Documents\Visual Studio 2010\Projects\FLOVAL\FLOVAL\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Gaby\Documents\Visual Studio 2010\Projects\FLOVAL\FLOVAL\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Gaby\Documents\Visual Studio 2010\Projects\FLOVAL\FLOVAL\obj\x86\Debug\WindowsFormsApplication1.RegistrarProveedor.resources
+C:\Users\Gaby\Documents\Visual Studio 2010\Projects\FLOVAL\FLOVAL\obj\x86\Debug\WindowsFormsApplication1.RegistroCliente.resources
+C:\Users\Gaby\Documents\Visual Studio 2010\Projects\FLOVAL\FLOVAL\obj\x86\Debug\FLOVAL.csproj.GenerateResource.Cache
+C:\Users\Gaby\Documents\Visual Studio 2010\Projects\FLOVAL\FLOVAL\bin\Debug\FLOVAL.exe.config
+C:\Users\Gaby\Documents\Visual Studio 2010\Projects\FLOVAL\FLOVAL\bin\Debug\FLOVAL.exe
+C:\Users\Gaby\Documents\Visual Studio 2010\Projects\FLOVAL\FLOVAL\bin\Debug\FLOVAL.pdb
+C:\Users\Gaby\Documents\Visual Studio 2010\Projects\FLOVAL\FLOVAL\bin\Debug\Mono.Security.dll
+C:\Users\Gaby\Documents\Visual Studio 2010\Projects\FLOVAL\FLOVAL\bin\Debug\Npgsql.dll
+C:\Users\Gaby\Documents\Visual Studio 2010\Projects\FLOVAL\FLOVAL\obj\x86\Debug\FLOVAL.exe
+C:\Users\Gaby\Documents\Visual Studio 2010\Projects\FLOVAL\FLOVAL\obj\x86\Debug\FLOVAL.pdb
+C:\Users\Gaby\Documents\Visual Studio 2010\Projects\FLOVAL\FLOVAL\obj\x86\Debug\WindowsFormsApplication1.MostrarCliente.resources
+C:\Users\Gaby\Documents\Visual Studio 2010\Projects\FLOVAL\FLOVAL\obj\x86\Debug\WindowsFormsApplication1.MostrarProveedor.resources
+C:\Users\Gaby\documents\visual studio 2010\Projects\FLOVAL\FLOVAL\obj\x86\Debug\WindowsFormsApplication1.MostrarProducto.resources
+C:\Users\Gaby\documents\visual studio 2010\Projects\FLOVAL\FLOVAL\obj\x86\Debug\WindowsFormsApplication1.RegistrarProducto.resources
+C:\Users\Gaby\documents\visual studio 2010\Projects\FLOVAL\FLOVAL\obj\x86\Debug\WindowsFormsApplication1.BuscarCliente.resources
+C:\Users\Gaby\documents\visual studio 2010\Projects\FLOVAL\FLOVAL\obj\x86\Debug\WindowsFormsApplication1.BuscarProducto.resources
+C:\Users\Gaby\documents\visual studio 2010\Projects\FLOVAL\FLOVAL\obj\x86\Debug\WindowsFormsApplication1.BuscarProveedor.resources
+C:\Users\Gaby\documents\visual studio 2010\Projects\FLOVAL\FLOVAL\obj\x86\Debug\WindowsFormsApplication1.ModificarProveedor.resources
+C:\Users\Gaby\documents\visual studio 2010\Projects\FLOVAL\FLOVAL\obj\x86\Debug\WindowsFormsApplication1.BuscarVarios.resources
+C:\Users\Gaby\documents\visual studio 2010\Projects\FLOVAL\FLOVAL\obj\x86\Debug\WindowsFormsApplication1.ModificarCliente.resources
+C:\Users\Gaby\documents\visual studio 2010\Projects\FLOVAL\FLOVAL\obj\x86\Debug\WindowsFormsApplication1.ModificarProducto.resources
+C:\Users\Gaby\documents\visual studio 2010\Projects\FLOVAL\FLOVAL\obj\x86\Debug\WindowsFormsApplication1.RegistrarCambio.resources
+C:\Users\Gaby\documents\visual studio 2010\Projects\FLOVAL\FLOVAL\obj\x86\Debug\WindowsFormsApplication1.RegistrarCompra.resources
+C:\Users\Gaby\documents\visual studio 2010\Projects\FLOVAL\FLOVAL\obj\x86\Debug\WindowsFormsApplication1.RegistrarVenta.resources
+C:\Users\Gaby\documents\visual studio 2010\Projects\FLOVAL\FLOVAL\obj\x86\Debug\WindowsFormsApplication1.BuscarCambio.resources
+C:\Users\Gaby\documents\visual studio 2010\Projects\FLOVAL\FLOVAL\obj\x86\Debug\WindowsFormsApplication1.BuscarCompra.resources
+C:\Users\Gaby\documents\visual studio 2010\Projects\FLOVAL\FLOVAL\obj\x86\Debug\WindowsFormsApplication1.BuscarVenta.resources
+C:\Users\Gaby\documents\visual studio 2010\Projects\FLOVAL\FLOVAL\obj\x86\Debug\WindowsFormsApplication1.MostrarCambio.resources
+C:\Users\Gaby\documents\visual studio 2010\Projects\FLOVAL\FLOVAL\obj\x86\Debug\WindowsFormsApplication1.MostrarCompra.resources
+C:\Users\Gaby\documents\visual studio 2010\Projects\FLOVAL\FLOVAL\obj\x86\Debug\WindowsFormsApplication1.MostrarVenta.resources
+C:\Users\Gaby\documents\visual studio 2010\Projects\FLOVAL\FLOVAL\obj\x86\Debug\WindowsFormsApplication1.AgregarPedido.resources
+C:\Users\Gaby\documents\visual studio 2010\Projects\FLOVAL\FLOVAL\obj\x86\Debug\WindowsFormsApplication1.BuscarPedido.resources
+C:\Users\Gaby\documents\visual studio 2010\Projects\FLOVAL\FLOVAL\obj\x86\Debug\WindowsFormsApplication1.MostrarPedido.resources
+C:\Users\Gaby\Desktop\GABY\FLOVAL\FLOVAL\bin\Debug\FLOVAL.exe.config
+C:\Users\Gaby\Desktop\GABY\FLOVAL\FLOVAL\obj\x86\Debug\FLOVAL.exe
+C:\Users\Gaby\Desktop\GABY\FLOVAL\FLOVAL\obj\x86\Debug\FLOVAL.pdb
